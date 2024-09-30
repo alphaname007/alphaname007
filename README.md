@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://dainstudios.com/wp-content/uploads/2022/08/Data-natives_banner_2.gif">
+<img align="center" width="100%" src="Banner.gif">
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">a Student of Data Science, SmartHome-Enthusiast and big fan of Ironman</h3>
 
