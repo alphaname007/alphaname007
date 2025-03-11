@@ -1,4 +1,4 @@
-<div style="width: 100vw; height: 100vh; background-image: url('./media/SOCIAL/Banner.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
+<div style="height: 100vh; background-image: url('./media/SOCIAL/Banner.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
 
 <h1 style="font-size: 10vh; text-align: right;">Daniel Weissenberger</h>
 
