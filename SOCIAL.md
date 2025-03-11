@@ -1,16 +1,23 @@
-<div style="height: 100vh; background-image: url('./media/SOCIAL/Banner.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
-
-<h1 style="font-size: 10vh; text-align: right;">Daniel Weissenberger</h>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+<div style="height:60vh; background-image:url('./media/SOCIAL/Banner.jpg'); background-attachment:fixed; background-repeat:no-repeat; background-size:cover;">
+    <div style="text-align:right; padding:5vh;">
+        <h1 style="font-size: 10vh;">Daniel Weissenberger</h>
+        <br>
+        <a href="https://instagram.com/" target="_blank">
+            <img style="height:5vh;" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://linkedin.com/" target="_blank">
+            <img style="height:5vh;" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://github.com/" target="_blank">
+            <img style="height:5vh;" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="mailto:your.email@example.com">
+            <img style="height:5vh;" src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
+        </a>
+        <br><br>
+        <p style="font-size: 2vh;">Welcome to my digital world! As a Data Science student, I'm passionate about science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, follow my journey on social media!</p>
+    </div>
 <div>
-</div>
-*Welcome to my digital world! As a Data Science student, I'm passionate about science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, follow my journey on social media!*
-
 
 ---
 
