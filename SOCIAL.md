@@ -1,6 +1,6 @@
 <div style="width: 100vw; height: 100vh; background-image: url('./media/SOCIAL/Banner.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
 
-<h1 style="font-size: 10vh; text-align: right; margin-top: 10vh; margin-right: 10vh">Daniel Weissenberger</h>
+<h1 style="font-size: 10vh; text-align: right;">Daniel Weissenberger</h>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
