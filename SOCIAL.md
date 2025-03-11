@@ -1,13 +1,16 @@
-<img align="center" width="100%" src="./media/SOZIAL/Banner.gif">
-# Daniel Weissenberger
+<div style="width: 100vw; height: 100vh; background-image: url('./media/SOCIAL/Banner.jpg'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover;">
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Digital+World)  
-*Welcome to my digital world! As a Data Science student, I'm passionate about science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, follow my journey on social media!*
+<h1 style="font-size: 10vh; text-align: right; margin-top: 10vh; margin-right: 10vh">Daniel Weissenberger</h>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<div>
+</div>
+*Welcome to my digital world! As a Data Science student, I'm passionate about science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, follow my journey on social media!*
+
 
 ---
 
@@ -18,6 +21,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
 ---
+
 
 ## Languages ✍
 
