@@ -1,4 +1,4 @@
-<div style="position: relative; width: 100%; height: 50vh;">
+<div style="position: relative; width: 100%; height: 32vh;">
   <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
   
   <div style="position: absolute; top: 0; right: 0; bottom: 0; display: flex; flex-direction: column; justify-content: space-around; align-items: left; padding: 1rem;">
