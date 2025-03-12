@@ -1,16 +1,16 @@
-<div style="height:60vh; background-image:url('./media/SOCIAL/Banner.jpg'); background-attachment:fixed; background-repeat:no-repeat; background-size:cover;">
+<div style="height:60vh; background-image:url('./media/SOCIAL/Banner.jpg'); background-position-x:40vw; background-attachment:fixed; background-repeat:no-repeat; background-size:cover;">
     <div style="text-align:right; padding:5vh;">
         <h1 style="font-size: 4vh;">Daniel Weissenberger 🖐<h1>
         <br>
         <a href="https://instagram.com/" target="_blank">
             <img style="height:2vh;" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
-        </a>
+        </a><br>
         <a href="https://linkedin.com/" target="_blank">
             <img style="height:2vh;" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
-        </a>
+        </a><br>
         <a href="https://github.com/" target="_blank">
             <img style="height:2vh;" src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
-        </a>
+        </a><br>
         <a href="mailto:your.email@example.com">
             <img style="height:2vh;" src="https://img.shields.io/badge/-Mail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Mail">
         </a>
