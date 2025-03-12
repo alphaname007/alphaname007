@@ -1,22 +1,21 @@
+# Daniel Weissenberger 🖐
+
 <div style="position: relative; width: 100%;">
   <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
   
-  <div style="position: absolute; top: 92px; right: 30px; padding: 10px; text-align: right; background-color: rgba(10,10,10,0.5)">
-    <h1 style="font-size: 300%; color:white;">Daniel Weissenberger 🖐</h1>
-    <p>
+  <div style="position: absolute; top: 0; right: 0; padding: 0; text-align: right; background-color: rgba(10,10,10,0.5)">
       <a href="https://instagram.com/">
         <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
+      </a><br>
       <a href="https://linkedin.com/">
         <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
+      </a><br>
       <a href="https://github.com/">
         <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-      </a>
+      </a><br>
       <a href="mailto:your.email@example.com">
         <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
       </a>
-    </p>
   </div>
 </div>
 
