@@ -3,18 +3,18 @@
 <div style="position: relative; width: 100%;">
   <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
   
-  <div style="position: absolute; top: 0; right: 0; padding: 0; text-align: right; background-color: rgba(10,10,10,0.5)">
+  <div style="position: absolute; top: 0; right: 0; display: flex; flex-direction: column; gap: 0.5rem; padding: 1rem;">
       <a href="https://instagram.com/">
-        <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-      </a><br>
+        <img style="height:3vh; background-color: transparent;" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
       <a href="https://linkedin.com/">
-        <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a><br>
+        <img style="height:3vh; background-color: transparent;" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
       <a href="https://github.com/">
-        <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-      </a><br>
+        <img style="height:3vh; background-color: transparent;" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      </a>
       <a href="mailto:your.email@example.com">
-        <img style="height:3vh; background-color: rgba(0,0,0,0);" src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
+        <img style="height:3vh; background-color: transparent;" src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
       </a>
   </div>
 </div>
