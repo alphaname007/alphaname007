@@ -1,20 +1,29 @@
-<div style="height:60vh; background-image:url('./media/SOCIAL/Banner.jpg'); background-position-x:20vw; background-attachment:fixed; background-repeat:no-repeat; background-size:cover;">
-    <div style="text-align:right; padding:5vh;">
-        <strong style="font-size: 4vh;">Daniel Weissenberger 🖐<strong>
-        <br><br>
-        <a href="https://instagram.com/" target="_blank">
-            <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
-        </a><br>
-        <a href="https://linkedin.com/" target="_blank">
-            <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
-        </a><br>
-        <a href="https://github.com/" target="_blank">
-            <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
-        </a><br>
-        <a href="mailto:your.email@example.com">
-            <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-Mail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Mail">
-        </a></div></div>
+<img align="center" width="100%" style="position:absolute;" src="./media/SOCIAL/Banner.jpg">
+
+<div align="right">
+
+# Daniel Weissenberger 🖐
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
+[![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+
+
 <br>
+    <a href="https://linkedin.com/" target="_blank">
+        <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+    </a><br>
+    <a href="https://github.com/" target="_blank">
+        <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub">
+    </a><br>
+    <a href="mailto:your.email@example.com">
+        <img style="height:4vh; background-color:rgba(0,0,0,0);" src="https://img.shields.io/badge/-Mail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Mail">
+    </a>
+</div>
+
 
 Welcome to my digital world! As a student of Data Science i'm passionate about all aspects of science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, You can follow my progress on my social media channel, TheOffice520
 
