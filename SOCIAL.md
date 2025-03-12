@@ -1,15 +1,24 @@
-<img align="center" width="100%" style="position:absolute;" src="./media/SOCIAL/Banner.jpg">
-
-<div align="right">
-
-# Daniel Weissenberger 🖐
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+<div style="position: relative; width: 100%;">
+  <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
+  
+  <div style="position: absolute; top: 0; right: 0; padding: 10px; text-align: right;">
+    <h1>Daniel Weissenberger 🖐</h1>
+    <p>
+      <a href="https://instagram.com/">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+      <a href="https://linkedin.com/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
+      </a>
+    </p>
+  </div>
 </div>
-
 
 
 <br>
