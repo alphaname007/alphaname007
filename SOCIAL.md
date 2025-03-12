@@ -2,19 +2,22 @@
   <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
   
   <div style="position: absolute; top: 0; right: 0; padding: 10px; text-align: right;">
-    <h1>Daniel Weissenberger 🖐</h1>
+    <h1 style="font-size: 20%; font-color:white;">Daniel Weissenberger 🖐</h1>
     <p>
       <a href="https://instagram.com/">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+        <img style="height:3%" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
       </a>
+      <br>
       <a href="https://linkedin.com/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img style="height:3%" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
+      <br>
       <a href="https://github.com/">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+        <img style="height:3%" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
       </a>
+      <br>
       <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
+        <img style="height:3%" src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail">
       </a>
     </p>
   </div>
