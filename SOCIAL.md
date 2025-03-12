@@ -1,7 +1,7 @@
 <div style="height:60vh; background-image:url('./media/SOCIAL/Banner.jpg'); background-position-x:20vw; background-attachment:fixed; background-repeat:no-repeat; background-size:cover;">
     <div style="text-align:right; padding:5vh;">
-        <strong style="font-size: 4vh;">Daniel Weissenberger 🖐<string>
-        <br>
+        <strong style="font-size: 4vh;">Daniel Weissenberger 🖐<strong>
+        <br><br>
         <a href="https://instagram.com/" target="_blank">
             <img style="height:4vh;" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
         </a><br>
