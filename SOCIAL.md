@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%;">
   <img src="./media/SOCIAL/Banner.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
   
-  <div style="position: absolute; top: 92; right: 0; padding: 10px; text-align: right; background-color: rgba(10,10,10,0.5)">
+  <div style="position: absolute; top: 92px; right: 30px; padding: 10px; text-align: right; background-color: rgba(10,10,10,0.5)">
     <h1 style="font-size: 300%; color:white;">Daniel Weissenberger 🖐</h1>
     <p>
       <a href="https://instagram.com/">
