@@ -13,9 +13,7 @@
         </a><br>
         <a href="mailto:your.email@example.com">
             <img style="height:4vh;" src="https://img.shields.io/badge/-Mail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Mail">
-        </a>
-    </div>
-</div>
+        </a></div></div>
 <br>
 
 Welcome to my digital world! As a student of Data Science i'm passionate about all aspects of science, technology, and IT. From tinkering with smart home gadgets to developing professional machine learning applications, You can follow my progress on my social media channel, TheOffice520
