@@ -7,13 +7,13 @@
 <p style="color: black; margin: 0 0 15px 0;">Digital Creator | Traveler| Developer </p>
 <hr style="background-color: black; height: 1px; border: none; margin: 0 0 10px 0;">  
 <div style="display: flex; flex-direction: column; gap: 5px;">
-<a href="https://instagram.com/yourhandle">
+<a href="https://instagram.com/http.dani520">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://linkedin.com/in/yourhandle">
+<a href="https://www.linkedin.com/in/daniel-wei%C3%9Fenberger-a854a0241">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="#">
+<a href="https://github.dev/alphaname007/alphaname007/blob/main/page-theoffice520/theoffice520">
 <img src="https://img.shields.io/badge/TheOffice520-000000?style=for-the-badge&logoColor=white" alt="TheOffice520"/>
 </a>
 </div>
