@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/daniel-wei%C3%9Fenberger-a854a0241">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.dev/alphaname007/alphaname007/blob/main/page-theoffice520/theoffice520">
+<a href="https://alphaname007.github.io/alphaname007/page-theoffice520/theoffice520">
 <img src="https://img.shields.io/badge/TheOffice520-000000?style=for-the-badge&logoColor=white" alt="TheOffice520"/>
 </a>
 <a href="https://github.com/alphaname007">
