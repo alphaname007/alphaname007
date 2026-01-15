@@ -1,9 +1,9 @@
-<img align="center" width="100%" src="./media/README/Banner.gif">
+<img align="center" width="100%" src="./page-dev/media/Banner.gif">
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">a Student of Data Science, SmartHome-Enthusiast and big fan of Ironman</h3>
 
-<img align="right" width="40%" src="./media/README/Coding.png">
+<img align="right" width="40%" src="./page-dev/media/Coding.png">
 
 
 - 🔭 I’m currently working on [Clippy2.0](https://github.com/alphaname007/Clippy2.0)
