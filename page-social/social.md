@@ -1,10 +1,10 @@
 <div style="position: relative; width: 100%;">
 <img src="./media/Banner.jpg" alt="Banner" width="100%" height="400" style="object-fit: cover; display: block;">
   
-<div style="position: absolute; top: 20%; right: 20%; padding: 2%; border-radius: 1vh; background-color: rgba(255,255,255, 0.6 ">
+<div style="position: absolute; top: 50%; transform: translateY(-50%); right: 15%; width: 30%; padding: 2%; border-radius: 1vh; background-color: rgba(255,255,255, 0.6);">
 <p style="font-size: 200%; color: rgb(0, 100, 200); margin: 0 0 10px 0;"><b>Hello i'm Daniel 👋🏼</b></p>
 <hr style="background-color: black; height: 1px; border: none; margin: 0 0 10px 0;">  
-<p style="color: black; margin: 0 0 15px 0;">Digital Creator | Traveler| Developer </p>
+<p style="color: black; margin: 0 0 15px 0;">Digital Creator | Traveler | Developer </p>
 <hr style="background-color: black; height: 1px; border: none; margin: 0 0 10px 0;">  
 <div style="display: flex; flex-direction: column; gap: 5px;">
 <a href="https://instagram.com/http.dani520">
